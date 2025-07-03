@@ -392,19 +392,19 @@ nav {
 }
 
 .featured-product-image {
-    background: linear-gradient(to top, rgba(0,0,0,0.4)30%, rgba(0,0,0,0.4)30%), url('Luxury Foundation.jpg');
+    background: linear-gradient(to top, rgba(0,0,0,0.4)30%, rgba(0,0,0,0.4)30%), url('./images/Luxury Foundation.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .featured-product-image-2 {
-    background: linear-gradient(to top, rgba(0,0,0,0.4)50%, rgba(0,0,0,0.4)50%), url('Lipstick.jpg');
+    background: linear-gradient(to top, rgba(0,0,0,0.4)50%, rgba(0,0,0,0.4)50%), url('./Images/Lipstick1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .featured-product-image-3 {
-    background: linear-gradient(to top, rgba(0,0,0,0.4)50%, rgba(0,0,0,0.4)50%), url('Eyeshadow.jpg');
+    background: linear-gradient(to top, rgba(0,0,0,0.4)50%, rgba(0,0,0,0.4)50%), url('./Images/Eyeshadow.jpg');
     background-size: cover;
     background-position: center;
 }

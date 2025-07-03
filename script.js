@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             if (this.classList.contains('cta-button')) {
                 setTimeout(() => {
-                    showNotification('Welcome to B&D Cosmetics! ✨', 'success');
+                    showNotification('Welcome to B&M Cosmetics! ✨', 'success');
                 }, 200);
             }
         });
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     text-align: center;
                     animation: pulse 1.5s ease-in-out infinite;
                 ">
-                    B&D Cosmetics
+                    B&M Cosmetics
                     <div style="
                         width: 50px;
                         height: 3px;
@@ -450,7 +450,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 500);
     }
 
-    console.log('🌟 B&D Cosmetics website loaded successfully! ✨');
+    console.log('🌟 B&M Cosmetics website loaded successfully! ✨');
 });
 
-console.log('%c✨ Welcome to B&D Cosmetics! ✨', 'color: #d4a574; font-size: 20px; font-weight: bold;');
+console.log('%c✨ Welcome to B&M Cosmetics! ✨', 'color: #d4a574; font-size: 20px; font-weight: bold;');
